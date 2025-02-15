@@ -25,4 +25,3 @@ def generate_password():
     else:
         password = random.sample(character_string,k=length)
 
-    
